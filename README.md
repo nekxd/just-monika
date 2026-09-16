@@ -27,7 +27,7 @@
 
 1. Склонируйте репозиторий или скачайте архив с кодом:
    ```bash
-   git clone https://github.com/ВАШ_НИК/just-monika-extension.git
+   git clone https://github.com/nekxd/just-monika
    ```
 2. Откройте ваш Chromium-браузер (Google Chrome, Яндекс Браузер, Microsoft Edge, Brave, Opera).
 3. Перейдите на страницу расширений:
